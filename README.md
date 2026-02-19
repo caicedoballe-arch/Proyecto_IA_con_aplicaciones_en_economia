@@ -8,7 +8,8 @@ La Junta Directiva del Banco de la República (JDBR) es el organismo encargado d
 
 Desde una perspectiva predictiva, resulta relevante analizar si las variaciones en la tasa de intervención contienen información que sea útil para poder anticipar la evolución futura del desempleo y la informalidad laboral en Colombia.  Dado que los cambios en la postura de la política monetaria reflejan el panorama que percibe la autoridad monetaria sobre el estado actual y futuro de la economía, el cual tienen efectos en el mercado laboral. En este sentido, el análisis se centra en evaluar la capacidad informativa y predictiva de la tasa de intervención, sin asumir una relación causal directa entre la política monetaria y los resultados laborales. 
 
-<img width="824" height="549" alt="image-90" src="https://github.com/user-attachments/assets/ff34c9ba-2cfa-41b6-80a5-23d3c7221182" />
+<img src="./image-90.png" alt="image-90" width="824" height="549"/>
+
 
 
 
