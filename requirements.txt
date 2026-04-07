@@ -1,1 +1,19 @@
+## Librerías necesarias para el funcionamiento del proyecto
 
+### Librerías externas (requieren instalación)
+
+* requests
+* pandas
+* numpy
+
+### Librerías estándar de Python (no requieren instalación)
+
+* os
+* functools
+* warnings
+
+## Cómo instalarlas
+
+Ejecuta el siguiente comando en la terminal:
+
+pip install -r requirements.txt
